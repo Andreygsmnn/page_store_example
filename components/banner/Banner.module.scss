@@ -1,0 +1,16 @@
+.promoContainer{
+    padding-top:10px;
+    font-size: 28px;
+    color:#2E2E33;
+    font-weight:500;
+    line-height: 40px;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    grid-gap:10px;
+}
+.arrow{
+    cursor:pointer;
+    padding-top:10px;
+}
+
