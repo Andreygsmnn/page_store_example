@@ -7,13 +7,13 @@
     grid-gap: 30px 30px;
 }
 
-@media screen and (max-width: 1280px){
+@media (max-width: 1280px){
     .main {
     grid-template-columns: repeat(3,332px);
 }
 }
 
-@media screen and (max-width: 768px){
+@media (max-width: 768px){
     .main {
     grid-template-columns: 332px;  
 }
